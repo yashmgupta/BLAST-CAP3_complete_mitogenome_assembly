@@ -1,0 +1,17 @@
+reference_length_bp: 15954
+total_input_records: 6682
+unique_sequence_ids_after_dedup: 4749
+duplicate_records_removed_by_id: 1933
+mapped_unique_ids: 4731
+unmapped_unique_ids: 18
+circular_coverage_bp: 15954
+circular_coverage_percent: 100.0
+minimum_depth_unique_ids: 2
+mean_depth_unique_ids: 44.481
+maximum_depth_unique_ids: 92
+zero_coverage_intervals_1based: []
+mapping_method_counts: {'circular_exact': 4112, 'circular_hamming_1mm': 395, 'circular_hamming_2mm': 95, 'circular_hamming_3mm': 76, 'circular_local': 53, 'unmapped': 18}
+orientation_counts_mapped: {'reverse': 2487, 'forward': 2244}
+unique_sequence_strings_among_unique_ids: 3647
+extra_duplicate_sequences_by_content_among_unique_ids: 1102
+number_of_sequence_strings_shared_by_multiple_unique_ids: 712
