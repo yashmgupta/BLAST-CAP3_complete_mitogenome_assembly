@@ -1,0 +1,1090 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+MW209725.1                                     GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAACTTATCCC	60
+reference_guided_mt_consensus_gap_rescued      GTTAATGTAGCTTAATAACAAAGCAAAGCACTGAAAATGCTTAGATGGATAACTTATCCC	60
+                                               ************************************************************
+
+MW209725.1                                     ATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAGTTAGAGGTAAAATTACACATGCAA	120
+reference_guided_mt_consensus_gap_rescued      ATAAACACAAAGGTTTGGTCCTGGCCTTATAATTAGTTAGAGGTAAAATTACACATGCAA	120
+                                               ************************************************************
+
+MW209725.1                                     ACCTCCATAAACCGGTGTAAAATCCCTTAAACATTTATATAAACTTTAAGGAGAGGGTAT	180
+reference_guided_mt_consensus_gap_rescued      ACCTCCATAAACCGGTGTAAAATCCCTTAAACATTTATATAAACTTTAAGGAGAGGGTAT	180
+                                               ************************************************************
+
+MW209725.1                                     CAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAG	240
+reference_guided_mt_consensus_gap_rescued      CAAGCACATTAAAATAGCTTAAGACACCTTGCCTAGCCACACCCCCACGGGACTCAGCAG	240
+                                               ************************************************************
+
+MW209725.1                                     TGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAA	300
+reference_guided_mt_consensus_gap_rescued      TGATAAATATTAAGCAATAAACGAAAGTTTGACTAAGTTATACCTCTTAGGGTTGGTAAA	300
+                                               ************************************************************
+
+MW209725.1                                     TTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATTTTCGGCGTAAAAT	360
+reference_guided_mt_consensus_gap_rescued      TTTCGTGCCAGCCACCGCGGTCATACGATTAACCCAAACTAATTATTTTCGGCGTAAAAT	360
+                                               ************************************************************
+
+MW209725.1                                     GTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGT	420
+reference_guided_mt_consensus_gap_rescued      GTGTCAACTATAAATAAATAAATAGAATTAAAATCCAACTTATATGTGAAAATTCATTGT	420
+                                               ************************************************************
+
+MW209725.1                                     TAGGACCTAAACTCAATAACGAAAGTAATTCTAATCATTTATAATACACGACAGCTAAGA	480
+reference_guided_mt_consensus_gap_rescued      TAGGACCTAAACTCAATAACGAAAGTAATTCTAATCATTTATAATACACGACAGCTAAGA	480
+                                               ************************************************************
+
+MW209725.1                                     CCCAAACTGGGATTAGATACCCCACTATGCTTAGCCATAAACCTAAATAATTAAATTTAA	540
+reference_guided_mt_consensus_gap_rescued      CCCAAACTGGGATTAGATACCCCACTATGCTTAGCCATAAACCTAAATAATTAAATTTAA	540
+                                               ************************************************************
+
+MW209725.1                                     CAAAACTATTTGCCAGAGAACTACTAGCCATAGCTTAAAACTCAAAGGACTTGGCGGTAC	600
+reference_guided_mt_consensus_gap_rescued      CAAAACTATTTGCCAGAGAACTACTAGCCATAGCTTAAAACTCAAAGGACTTGGCGGTAC	600
+                                               ************************************************************
+
+MW209725.1                                     TTTATATCCGTCTAGAGGAGCCTGTTCTATAATCGATAAACCCCGCTCTACCTCACCATC	660
+reference_guided_mt_consensus_gap_rescued      TTTATATCCGTCTAGAGGAGCCTGTTCTATAATCGATAAACCCCGCTCTACCTCACCATC	660
+                                               ************************************************************
+
+MW209725.1                                     TCTTGCTAATTCAGCCTATATACCGCCATCTTCAGCAAACCCTAAAAAGGTATTAAAGTA	720
+reference_guided_mt_consensus_gap_rescued      TCTTGCTAATTCAGCCTATATACCGCCATCTTCAGCAAACCCTAAAAAGGTATTAAAGTA	720
+                                               ************************************************************
+
+MW209725.1                                     AGCAAAAGAATCAAACATAAAAACGTTAGGTCAAGGTGTAGCCAATGAAATGGGAAGAAA	780
+reference_guided_mt_consensus_gap_rescued      AGCAAAAGAATCAAACATAAAAACGTTAGGTCAAGGTGTAGCCAATGAAATGGGAAGAAA	780
+                                               ************************************************************
+
+MW209725.1                                     TGGGCTACATTTTCTTTTAAAAGAACATTACCATGCCCTTTATGAAACTAAAGGATTAAG	840
+reference_guided_mt_consensus_gap_rescued      TGGGCTACATTTTCTTTTAAAAGAACATTACCATGCCCTTTATGAAACTAAAGGATTAAG	840
+                                               ************************************************************
+
+MW209725.1                                     GAGGATTTAGTAGTAAATTAAGAATAGAGAGCTTAATTGAATTGAGCAATGAAGTACGCA	900
+reference_guided_mt_consensus_gap_rescued      GAGGATTTAGTAGTAAATTAAGAATAGAGAGCTTAATTGAATTGAGCAATGAAGTACGCA	900
+                                               ************************************************************
+
+MW209725.1                                     CACACCGCCCGTCACCCTCCTCAAATTAAATCAAACTTAACATAATTAATTCCTAGACAA	960
+reference_guided_mt_consensus_gap_rescued      CACACCGCCCGTCACCCTCCTCAAATTAAATCAAACTTAACATAATTAATTCCTAGACAA	960
+                                               ************************************************************
+
+MW209725.1                                     CCCATTTATGAGAGGAGATAAGTCGTAACAAGGTAAGCATACTGGAAAGTGTGCTTGGAA	1020
+reference_guided_mt_consensus_gap_rescued      CCCATTTATGAGAGGAGATAAGTCGTAACAAGGTAAGCATACTGGAAAGTGTGCTTGGAA	1020
+                                               ************************************************************
+
+MW209725.1                                     TAATCATAGTGTAGCTTAATATTAAAGCATCTGGCCTACACCCAGAAGAATTCATGACTA	1080
+reference_guided_mt_consensus_gap_rescued      TAATCATAGTGTAGCTTAATATTAAAGCATCTGGCCTACACCCAGAAGAATTCATGACTA	1080
+                                               ************************************************************
+
+MW209725.1                                     ATGGACACTCTGAACTAATCCTAGCCCTAGCCTTCACAAATATAATTACATCATTTCATA	1140
+reference_guided_mt_consensus_gap_rescued      ATGGACACTCTGAACTAATCCTAGCCCTAGCCTTCACAAATATAATTACATCATTTCATA	1140
+                                               ************************************************************
+
+MW209725.1                                     AATCAAAACATTTAACCCACTAAAAGTATTGGAGAAAGAAATTCGTACATCTAGGAGCTA	1200
+reference_guided_mt_consensus_gap_rescued      AATCAAAACATTTAACCCACTAAAAGTATTGGAGAAAGAAATTCGTACATCTAGGAGCTA	1200
+                                               ************************************************************
+
+MW209725.1                                     TAGAACTAGTACCGTAAGGGAAAGATGAAAGATCAATTAAAAGTAAAAATAAGCAAAGAT	1260
+reference_guided_mt_consensus_gap_rescued      TAGAACTAGTACCGTAAGGGAAAGATGAAAGATCAATTAAAAGTAAAAATAAGCAAAGAT	1260
+                                               ************************************************************
+
+MW209725.1                                     TAAACCTTGTACCTTTTGCATAATGAATTAACTAGAAAACTTCTAACTAAAAGAATTACA	1320
+reference_guided_mt_consensus_gap_rescued      TAAACCTTGTACCTTTTGCATAATGAATTAACTAGAAAACTTCTAACTAAAAGAATTACA	1320
+                                               ************************************************************
+
+MW209725.1                                     GCTAGAAACCCCGAAACCAAACGAGCTACCTAAAAACAATTTAATGAATCAACTCGTCTA	1380
+reference_guided_mt_consensus_gap_rescued      GCTAGAAACCCCGAAACCAAACGAGCTACCTAAAAACAATTTAATGAATCAACTCGTCTA	1380
+                                               ************************************************************
+
+MW209725.1                                     TGTGGCAAAATAGTGAGAAGATTTTTAGGTAGAGGTGAAAAGCCTAACGAGCTTGGTGAT	1440
+reference_guided_mt_consensus_gap_rescued      TGTGGCAAAATAGTGAGAAGATTTTTAGGTAGAGGTGAAAAGCCTAACGAGCTTGGTGAT	1440
+                                               ************************************************************
+
+MW209725.1                                     AGCTGGTTACCCAAAAAATGAATTTAAGTTCAACTTTAAACTTGCT-AAAAAACAATAAA	1499
+reference_guided_mt_consensus_gap_rescued      AGCTGGTTACCCAAAAAATGAATTTAAGTTCAACTTTAAACTTGCTAAAAAAACAATAAA	1500
+                                               ********************************************** *************
+
+MW209725.1                                     ATCAAAAAGTAAGTTTAAATTATAGCCAAAAGAGGGACAGCTCTTTTGGAACGGAAAAAA	1559
+reference_guided_mt_consensus_gap_rescued      ATCAAAAAGTAAGTTTAAATTATAGCCAAAAGAGGGACAGCTCTTTTGGAACGGAAAAAA	1560
+                                               ************************************************************
+
+MW209725.1                                     CCTTTAATAGTGAATAATTAATAAATCAACCTTTAACCATTGTAGGCCTAAAAGCAGCCA	1619
+reference_guided_mt_consensus_gap_rescued      CCTTTAATAGTGAATAATTAATAAATCAACCTTTAACCATTGTAGGCCTAAAAGCAGCCA	1620
+                                               ************************************************************
+
+MW209725.1                                     CCAACAAAGAAAGCGTTCAAGCTCAACATAAAATTTTAACTAATCTCACAATTTACATCA	1679
+reference_guided_mt_consensus_gap_rescued      CCAACAAAGAAAGCGTTCAAGCTCAACATAAAATTTTAACTAATCTCACAATTTACATCA	1680
+                                               ************************************************************
+
+MW209725.1                                     ACTTCCTAAACTTAAAATTGGGTTAATCTATAGTTTTATAGATGCAACACTGTTAGTATG	1739
+reference_guided_mt_consensus_gap_rescued      ACTTCCTAAACTTAAAATTGGGTTAATCTATAGTTTTATAGATGCAACACTGTTAGTATG	1740
+                                               ************************************************************
+
+MW209725.1                                     AGTAACAAGAATTCTAATTCTCCAGGCATACGCATATAACAACTCGGATAACCATTGTTA	1799
+reference_guided_mt_consensus_gap_rescued      AGTAACAAGAATTCTAATTCTCCAGGCATACGCATATAACAACTCGGATAACCATTGTTA	1800
+                                               ************************************************************
+
+MW209725.1                                     GTTAATCAAACTATAGGCTATACTTATAATATAAACAATTTACCTATAACTACTCTGTTA	1859
+reference_guided_mt_consensus_gap_rescued      GTTAATCAAACTATAGGCTATACTTATAATATAAACAATTTACCTATAACTACTCTGTTA	1860
+                                               ************************************************************
+
+MW209725.1                                     ACCCAACACCGGAATGCCTTAAGGAAAGATCTAAAAAGATAAAAGGAACTCGGCAAACAA	1919
+reference_guided_mt_consensus_gap_rescued      ACCCAACACCGGAATGCCTTAAGGAAAGATCTAAAAAGATAAAAGGAACTCGGCAAACAA	1920
+                                               ************************************************************
+
+MW209725.1                                     GAACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATAACAAGTATTAGAGGCACTGCC	1979
+reference_guided_mt_consensus_gap_rescued      GAACCCCGCCTGTTTACCAAAAACATCACCTCTAGCATAACAAGTATTAGAGGCACTGCC	1980
+                                               ************************************************************
+
+MW209725.1                                     TGCCCAGTGACTAAAGTTTAACGGCCGCGGTATCCTGACCGTGCAAAGGTAGCATAATCA	2039
+reference_guided_mt_consensus_gap_rescued      TGCCCAGTGACTAAAGTTTAACGGCCGCGGTATCCTGACCGTGCAAAGGTAGCATAATCA	2040
+                                               ************************************************************
+
+MW209725.1                                     CTTGTTCCTTAATTAGGGACTAGCATGAATGGCTAAACGAGGGTTCAACTGTCTCTTATC	2099
+reference_guided_mt_consensus_gap_rescued      CTTGTTCCTTAATTAGGGACTAGCATGAATGGCTAAACGAGGGTTCAACTGTCTCTTATC	2100
+                                               ************************************************************
+
+MW209725.1                                     TTTAATCAGTGAAATTGACCTTTCAGTGAAGAGGCTGAAATACAATAATAAGACGAGAAG	2159
+reference_guided_mt_consensus_gap_rescued      TTTAATCAGTGAAATTGACCTTTCAGTGAAGAGGCTGAAATACAATAATAAGACGAGAAG	2160
+                                               ************************************************************
+
+MW209725.1                                     ACCCTATGGAGCTTAAATTACACGACTTATCTATTCATTTTATAAACCTAATGGCCCAAA	2219
+reference_guided_mt_consensus_gap_rescued      ACCCTATGGAGCTTAAATTACACGACTTATCTATTCATTTTATAAACCTAATGGCCCAAA	2220
+                                               ************************************************************
+
+MW209725.1                                     AACTATAGTGTAAGTCTGAAATTTCGGTTGGGGTGACCTCGGAGAATAAAAAATCCTCCG	2279
+reference_guided_mt_consensus_gap_rescued      AACTATAGTGTAAGTCTGAAATTTCGGTTGGGGTGACCTCGGAGAATAAAAAATCCTCCG	2280
+                                               ************************************************************
+
+MW209725.1                                     AATGATTATAACCTAGACCTACAAGTCAAAGTAAAATCAACATATCTTATTGACCC-AAT	2338
+reference_guided_mt_consensus_gap_rescued      AATGATTATAACCTAGACCTACAAGTCAAAGTAAAATCAACATATCTTATTGACCCAAAT	2340
+                                               ******************************************************** ***
+
+MW209725.1                                     ACATTTTGATCAACGGACCAAGTTACCCTAGGGATAACAGCGCAATCCTATTTAAGAGTT	2398
+reference_guided_mt_consensus_gap_rescued      ACATTTTGATCAACGGACCAAGTTACCCTAGGGATAACAGCGCAATCCTATTTAAGAGTT	2400
+                                               ************************************************************
+
+MW209725.1                                     CATATCGACAATCAGGGTTTACGACCTCGATGTTGGATCAGGACATCCCAATGGTGTAGA	2458
+reference_guided_mt_consensus_gap_rescued      CATATCGACAATCAGGGTTTACGACCTCGATGTTGGATCAGGACATCCCAATGGTGTAGA	2460
+                                               ************************************************************
+
+MW209725.1                                     AGCTATTAATGGTTCGTTTGTTCAACGATTAAAGTCCTACGTGATCTGAGTTCAGACCGG	2518
+reference_guided_mt_consensus_gap_rescued      AGCTATTAATGGTTCGTTTGTTCAACGATTAAAGTCCTACGTGATCTGAGTTCAGACCGG	2520
+                                               ************************************************************
+
+MW209725.1                                     AGCAATCCAGGTCGGTTTCTATCTATTTACAATTTCTCCCAGTACGAAAGGACAAGAGAA	2578
+reference_guided_mt_consensus_gap_rescued      AGCAATCCAGGTCGGTTTCTATCTATTTACAATTTCTCCCAGTACGAAAGGACAAGAGAA	2580
+                                               ************************************************************
+
+MW209725.1                                     ATAGAGCCACCTTACAAATAAGCGCTCTCAACTTAATTTATGAATAAATCTTAATAAAAT	2638
+reference_guided_mt_consensus_gap_rescued      ATAGAGCCACCTTACAAATAAGCGCTCTCAACTTAATTTATGAATAAATCTTAATAAAAT	2640
+                                               ************************************************************
+
+MW209725.1                                     ATGTATGTACATCCTCTAACCTAGAGAAGGTTATTAGGGTGGCAGAGCCAGGAAATTGCG	2698
+reference_guided_mt_consensus_gap_rescued      ATATATGTACATCCTCTAACCTAGAGAAGGTTATTAGGGTGGCAGAGCCAGGAAATTGCG	2700
+                                               ** *********************************************************
+
+MW209725.1                                     TAAGACTTAAAACCTTGTTCCCAGAGGTTCAAATCCTCTCCCTAATAGTGTTCTTTATCA	2758
+reference_guided_mt_consensus_gap_rescued      TAAGACTTAAAACCTTGTTCCCAGAGGTTCAAATCCTCTCCCTAATAGTGTTCTTTATCA	2760
+                                               ************************************************************
+
+MW209725.1                                     ACATTTTAACACTCCTCCTACCTATCCTAATCGCTATGGCTTACCTAACACTAGTAGAAC	2818
+reference_guided_mt_consensus_gap_rescued      ATATCCTAACACTCCTCGTCCCCATTCTAATCGCTATAGCCTTCCTAACACTAGTAGAAC	2820
+                                               * **  *********** * ** ** *********** ** * *****************
+
+MW209725.1                                     GCAAAATCTTAGGGTACATACAACTACGAAAAGGCCCTAACGTCGTAGGCCCATACGGTA	2878
+reference_guided_mt_consensus_gap_rescued      GCAAAATCTTAGGGTACATACAACTACGAAAAGGCCCTAACGTCGTAGGCCCATACGGTA	2880
+                                               ************************************************************
+
+MW209725.1                                     TTCTACAACCATTTGCAGACGCCATAAAACTATTTATTAAAGAACCAATACGCCCCTTAA	2938
+reference_guided_mt_consensus_gap_rescued      TTCTACAACCATTTGCAGACGCCATAAAACTATTTATAAAAGAACCAATACGCCCTTTAA	2940
+                                               ************************************* ***************** ****
+
+MW209725.1                                     CAACCTCTATATCTTTGTTTATCATCGCACCAACTCTATCACTCACACTAGCATTAAGCC	2998
+reference_guided_mt_consensus_gap_rescued      CAACCTCTATATCCTTATTTATCATCGCACCAACTCTATCACTCACACTAGCATTAAGCC	3000
+                                               ************* ** *******************************************
+
+MW209725.1                                     TATGAGTTCCTCTACCAATACCTTACCCATTAATTAATTTAAACCTAGGGATTTTATTTA	3058
+reference_guided_mt_consensus_gap_rescued      TATGAGTTCCTCTACCAATACCTTACCCATTAATTAATTTAAACCTAGGGATTTTATTTA	3060
+                                               ************************************************************
+
+MW209725.1                                     TTCTAGCAACATCCAGCCTATCAGTTTACTCCATTCTATGATCCGGATGAGCCTCAAACT	3118
+reference_guided_mt_consensus_gap_rescued      TTCTAGCAACATCCAGCCTATCAGTTTACTCCATTCTATGATCCGGATGAGCCTCAAACT	3120
+                                               ************************************************************
+
+MW209725.1                                     CCAAATACTCACTATTCGGAGCTCTACGAGCTGTAGCCCAAACAATTTCATACGAAGTAA	3178
+reference_guided_mt_consensus_gap_rescued      CCAAATACTCACTATTCGGAGCTCTACGAGCTGTAGCCCAAACAATTTCATACGAAGTAA	3180
+                                               ************************************************************
+
+MW209725.1                                     CCATAGCCATTATCCTCTTATCAGTGCTGTTAATAAGTGGGTCCTACTCCTTACAAACAC	3238
+reference_guided_mt_consensus_gap_rescued      CCATAGCCATTATCCTTTTATCAGTGCTATTAATAAGTGGGTCCTACTCCTTACAAACAC	3240
+                                               **************** *********** *******************************
+
+MW209725.1                                     TTATTACAACCCAAGAGCACATATGACTAGTACTGCCGGCCTGACCCATAGCCATAATAT	3298
+reference_guided_mt_consensus_gap_rescued      TTATTACAACCCAAGAGCACATATGACTAGTACTGCCGGCCTGACCCATAGCCATAATAT	3300
+                                               ************************************************************
+
+MW209725.1                                     GATTTATCTCCACTCTAGCAGAAACAAACCGAGCACCCTTCGACCTAACAGAAGGGGAAT	3358
+reference_guided_mt_consensus_gap_rescued      GATTTATCTCCACTCTAGCAGAAACAAACCGAGCACCCTTCGACCTAACAGAAGGGGAAT	3360
+                                               ************************************************************
+
+MW209725.1                                     CTGAATTAGTATCAGGATTTAATGTAGAGTACGCAGCCGGTCCATTTGCATTGTTCTTCA	3418
+reference_guided_mt_consensus_gap_rescued      CTGAATTAGTATCAGGATTTAATGTAGAGTACGCAGCCGGTCCATTTGCATTGTTCTTCA	3420
+                                               ************************************************************
+
+MW209725.1                                     TAGCAGAATATACTAACATTATTCTAATAAATGCCCTAACAACCATTATCTTCCTAGGAC	3478
+reference_guided_mt_consensus_gap_rescued      TAGCAGAATATACTAACATTATTCTAATAAATGCCCTAACAACCATTATCTTCCTAGGAC	3480
+                                               ************************************************************
+
+MW209725.1                                     CCCTATATTATATTAACCTACCAGAACTATACTCAACTAACTTCATAACAGAAGCCTTAC	3538
+reference_guided_mt_consensus_gap_rescued      CCCTATATTATATTAACCTACCAGAACTATACTCAACTAACTTCATAACAGAAGCTTTAC	3540
+                                               ******************************************************* ****
+
+MW209725.1                                     TACTATCATCAACATTCCTATGAATTCGAGCATCCTACCCCCGTTTTCGCTACGACCAAC	3598
+reference_guided_mt_consensus_gap_rescued      TACTATCATCAACATTCCTATGGATCCGAGCATCTTATCCACACTTTTGCTACGACCAAC	3600
+                                               ********************** ** ******** ** ** *  *** ************
+
+MW209725.1                                     TAATACATCTCCTATGAAAAAACTTTTTACCCCTAACACTAGCATTATGTATATGACACA	3658
+reference_guided_mt_consensus_gap_rescued      TAATACATCTTCTATGGAAAAACTTTTTACCCCTAACACTAGCATTATGTATATGACATA	3660
+                                               ********** ***** ***************************************** *
+
+MW209725.1                                     TTTCCTTACCAATTTTTACAGCGGGGACGCCTCCATACATATAGAAATATGTCTGACAAA	3718
+reference_guided_mt_consensus_gap_rescued      TTTCTTTACCAATTTTTACAGCGGGGATACCACCATATGTATAGAAATATGTCTGATAAA	3720
+                                               **** **********************  ** *****  ***************** ***
+
+MW209725.1                                     AGAGTTACTTTGATAGAGTAAATAATAGAGGTTTAAACCCTCTTATTTCTAGGACAATAG	3778
+reference_guided_mt_consensus_gap_rescued      AGAGTTACTTTGATAGAGTAAATAATAGAGGTTTAAACCCTCTTATTTCTAGGACAATAG	3780
+                                               ************************************************************
+
+MW209725.1                                     GAATTGAACCTACACTTAAGAATTCAAAATTCTTCGTGCTACCTAAACACCTCATCCTAT	3838
+reference_guided_mt_consensus_gap_rescued      GAATTGAACCTACACTTAAGAATTCAAAATTCTTCGTGCTACCTAAACACCTTATCCTAT	3840
+                                               **************************************************** *******
+
+MW209725.1                                     AGTAAGGTCAGCTAATTAAGCTATCGGGCCCATACCCCGAAAACGTTGGTTTAAATCCTT	3898
+reference_guided_mt_consensus_gap_rescued      AGTAAGGTCAGCTAATTAAGCTATCGGGCCCATACCCCGAAAACGTTGGTTTAAATCCTT	3900
+                                               ************************************************************
+
+MW209725.1                                     CCCGTACTAATAAATCCTATAACCCTTGCTATCATCTACTTAACAATTTTCCTAGGCCCT	3958
+reference_guided_mt_consensus_gap_rescued      CCCGTACTAATAAATCCTATAACCCTTGCTATCATCTACTTCACAATCTTCTTAGGCCCT	3960
+                                               ***************************************** ***** *** ********
+
+MW209725.1                                     GTAATTACAATATCTAGCACTAACCTCATGCTAATATGAGTAGGCCTAGAATTTAGCCTA	4018
+reference_guided_mt_consensus_gap_rescued      GTAATCACAATGTCCAGCACCAACCTCATACTGATATGAGTAGGCCTGGAATTTAGCCTA	4020
+                                               ***** ***** ** ***** ******** ** ************** ************
+
+MW209725.1                                     TTAGCAATTATCCCTATACTAATTAATAAAAAAAACCCACGATCAACTGAAGCAGCAACA	4078
+reference_guided_mt_consensus_gap_rescued      TTAGCAATTATCCCCATGCTAATTAACAAAAAAAACCCACGATCAACTGAAGCAGCAACA	4080
+                                               ************** ** ******** *********************************
+
+MW209725.1                                     AAATATTTTGTCACCCAAGCAACAGCCTCAATAATTATTCTCCTGGCCATTGTACTCAAT	4138
+reference_guided_mt_consensus_gap_rescued      AAATACTTCGTTACACAAGCAACAGCCTCAATAATTATCCTCCTGGCCATCGTACTCAAT	4140
+                                               ***** ** ** ** *********************** *********** *********
+
+MW209725.1                                     TATAAACAATTAGGAACATGGGTATTTCAACAACAAACAAACGGCCTTATCCTCAACATA	4198
+reference_guided_mt_consensus_gap_rescued      TATAAACAATTAGGAACATGAATATTTCAACAACAAACAAACGGCCTTATCCTCAACATA	4200
+                                               ********************  **************************************
+
+MW209725.1                                     ACATTAATGGCCCTATCCATGAAATTAGGCCTCGCCCCCTTCCACTTCTGACTACCAGAA	4258
+reference_guided_mt_consensus_gap_rescued      ACATTAATGGTCCTATCCATAAAACTAGGCCTCGCCCCATTCCACTTCTGATTACCAGAA	4260
+                                               ********** ********* *** ************* ************ ********
+
+MW209725.1                                     GTAACTCAAGGAATCCCGCTACATATAGGACTTATCCTTCTCACATGACAAAAAATTGCC	4318
+reference_guided_mt_consensus_gap_rescued      GTAACTCAAGGAATTCCACTGCACATAGGACTTATCCTTCTCACATGACAAAAAATTGCC	4320
+                                               ************** ** ** ** ************************************
+
+MW209725.1                                     CCCCTATCAATCTTAATCCAAATTTATCCACTACTTAATCCCACTATCATTTTAATACTA	4378
+reference_guided_mt_consensus_gap_rescued      CCCCTATCAATCTTAATCCAAATTTATCCACTACTTAATCCCACTATCATTTTAATACTA	4380
+                                               ************************************************************
+
+MW209725.1                                     GCAATTACTTCAATCTTCATAGGAGCATGAGGAGGACTTAATCAAACACAAATACGAAAA	4438
+reference_guided_mt_consensus_gap_rescued      GCAATTACTTCAATCTTCATAGGAGCATGAGGAGGACTTAATCAAACACAAATACGAAAA	4440
+                                               ************************************************************
+
+MW209725.1                                     ATTATAGCCTACTCATCAATTGCCCATATAGGATGAATACTAGCAATTCTTCCTTATAAC	4498
+reference_guided_mt_consensus_gap_rescued      ATTATAGCCTACTCATCAATTGCCCATATAGGATGAATACTAGCAATTCTTCCTTATAAC	4500
+                                               ************************************************************
+
+MW209725.1                                     CCATCTCTTACACTACTCAACCTTATAATCTATATTATTCTCACAATTCCTATATTTATA	4558
+reference_guided_mt_consensus_gap_rescued      CCATCTCTTACACTACTCAACCTTATAATCTATATTATTCTTACAATTCCTATATTTATA	4560
+                                               ***************************************** ******************
+
+MW209725.1                                     GCACTTATACTAAACAACTCTATAACCATTAACTCGATCTCACTTCTATGAAATAAAACC	4618
+reference_guided_mt_consensus_gap_rescued      GCACTTATACTAAACAACTCTATAACCATTAACTCGATCTCACTTCTATGAAATAAAACC	4620
+                                               ************************************************************
+
+MW209725.1                                     CCAGCAATACTAACCATAATTTCACTAATACTATTATCCCTAGGAGGCCTCCCGCCACTG	4678
+reference_guided_mt_consensus_gap_rescued      CCAGCAATACTAACCATAATTTCACTAATACTATTATCCCTAGGAGGCCTCCCGCCACTG	4680
+                                               ************************************************************
+
+MW209725.1                                     ACAGGATTTTTACCTAAATGAATTATCATTACGGAGCTTATAAAAAATAATTGCCTAATT	4738
+reference_guided_mt_consensus_gap_rescued      ACAGGATTTTTACCTAAATGAATTATCATTACGGAGCTTATAAAAAATAATTGCCTAATT	4740
+                                               ************************************************************
+
+MW209725.1                                     ATAGCAACACTCATAGCAATGATAGCCCTACTAAACCTATTCTTCTATACTCGCCTAATT	4798
+reference_guided_mt_consensus_gap_rescued      ATAGCAACACTCATAGCAATGATAGCCCTACTAAACCTATTCTTCTATACTCGCCTAATT	4800
+                                               ************************************************************
+
+MW209725.1                                     TATTCTACTTCACTAACAATATTTCCAACCAACAATAACTCAAAAATGATAACTCACCAA	4858
+reference_guided_mt_consensus_gap_rescued      TATTCTACTTCACTAACAATATTTCCAACCAACAATAACTCAAAAATGATAACTCACCAA	4860
+                                               ************************************************************
+
+MW209725.1                                     ACAAAAACTAAACCTAACCTAATATTTTCTACCCTGGCTGTTATAAGTACAATAACCCTA	4918
+reference_guided_mt_consensus_gap_rescued      ACAAAAACTAAACCTAACCTAATATTTTCTACCCTGGCTGTTATAAGTACAATAACCCTA	4920
+                                               ************************************************************
+
+MW209725.1                                     CCCCTGGCCCCCCAACTAATTACCTAGAAGTTTAGGATATTATAGTCCACGGGCCTTCAA	4978
+reference_guided_mt_consensus_gap_rescued      CCCCTGGCCCCCCAACTAATTACCTAGAAGTTTAGGATATTATAGTCCACGGGCCTTCAA	4980
+                                               ************************************************************
+
+MW209725.1                                     AGCCCTAAGAAAACACGCAAGTTTAACTTCTGATAAGGACTGTAAGACTCTATCCTACAT	5038
+reference_guided_mt_consensus_gap_rescued      AGCCCTAAGAAAACACGCAAGTTTAACTTCTGATAAGGACTGTAAGACTCTATCCTACAT	5040
+                                               ************************************************************
+
+MW209725.1                                     CTATTGAATGCAAATCAATTGCTTTAATTAAGCTAAGACCTCAACTAGATTGGCAGGAAT	5098
+reference_guided_mt_consensus_gap_rescued      CTATTGAATGCAAATCAATTGCTTTAATTAAGCTAAGACCTCAACTAGATTGGCAGGAAT	5100
+                                               ************************************************************
+
+MW209725.1                                     TAAACCTACGAAATTTTAGTTAACAGCTAAATACCCTATTACTGGCTTCAATCTACTTCT	5158
+reference_guided_mt_consensus_gap_rescued      TAAACCTACGAAATTTTAGTTAACAGCTAAATACCCTATTACTGGCTTCAATCTACTTCT	5160
+                                               ************************************************************
+
+MW209725.1                                     ACCGCCATAAAAAAAAAGAAAATGGCGGTAGAAGTCTTAGTAGAGGATTTCTCTACACCT	5218
+reference_guided_mt_consensus_gap_rescued      ACCGCCATAAAAAAAAA-AAAATGGCGGTAGAAGTCTTAGTAGAGGATTTCTCTACACCT	5219
+                                               ***************** ******************************************
+
+MW209725.1                                     TCGAATTTGCAATTCGACATGAATATCACCTTAAGACCTCTGGTAAAAAGAGGATTTAAA	5278
+reference_guided_mt_consensus_gap_rescued      TCGAATTTGCAATTCGACATGAATATCACCTTAAGACCTCTGGTAAAAAGAGGATTTAAA	5279
+                                               ************************************************************
+
+MW209725.1                                     CCCCTGTGTTTAGATTTACAGTCTAATGCTTACTCAGCCATTTTACCTATGTTCATTAAT	5338
+reference_guided_mt_consensus_gap_rescued      CCCCTGTGTTTAGATTTACAGTCTAATGCTTACTCAGCCATTTTACCTATGTTCATTAAT	5339
+                                               ************************************************************
+
+MW209725.1                                     CGCTGATTATTCTCAACCAATCATAAAGATATCGGAACCCTGTATTTACTATTCGGAGCC	5398
+reference_guided_mt_consensus_gap_rescued      CGCTGATTATTCTCAACCAATCATAAAGATATCGGAACCCTGTATTTACTATTCGGAGCC	5399
+                                               ************************************************************
+
+MW209725.1                                     TGAGCAGGAATAGTAGGTACTGCCCTAAGTATTTTAATTCGAGCAGAATTAGGTCAACCA	5458
+reference_guided_mt_consensus_gap_rescued      TGAGCAGGAATAGTAGGTACTGCCCTAAGTATTTTAATTCGAGCAGAATTAGGTCAACCA	5459
+                                               ************************************************************
+
+MW209725.1                                     GGTGCACTCTTAGGAGATGACCAAATTTATAATGTTATCGTAACTGCCCATGCATTTGTT	5518
+reference_guided_mt_consensus_gap_rescued      GGTGCACTCTTAGGAGATGACCAAATTTATAATGTTATCGTAACTGCCCATGCATTTGTT	5519
+                                               ************************************************************
+
+MW209725.1                                     ATAATTTTCTTTATAGTTATACCAATAATAATTGGAGGCTTTGGAAACTGACTTGTCCCA	5578
+reference_guided_mt_consensus_gap_rescued      ATAATTTTCTTTATAGTAATACCAATAATAATTGGAGGCTTTGGAAACTGACTTGTCCCA	5579
+                                               ***************** ******************************************
+
+MW209725.1                                     CTAATAATTGGAGCCCCAGACATGGCATTCCCACGAATAAATAATATAAGTTTCTGACTT	5638
+reference_guided_mt_consensus_gap_rescued      CTAATAATTGGAGCCCCAGACATGGCATTCCCACGAATAAATAATATAAGTTTCTGACTT	5639
+                                               ************************************************************
+
+MW209725.1                                     CTACCCCCATCATTCCTTCTTCTCCTAGCATCATCAATAGTTGAAGCAGGAGCAGGAACA	5698
+reference_guided_mt_consensus_gap_rescued      CTACCCCCATCATTCCTTCTTCTCCTAGCATCATCAATAGTTGAAGCAGGAGCAGGAACA	5699
+                                               ************************************************************
+
+MW209725.1                                     GGATGAACAGTCTACCCTCCTCTAGCCGGAAATCTAGCCCATGCAGGAGCATCAGTAGAC	5758
+reference_guided_mt_consensus_gap_rescued      GGATGAACAGTCTACCCTCCTCTAGCCGGAAATCTAGCCCATGCAGGAGCATCAGTAGAC	5759
+                                               ************************************************************
+
+MW209725.1                                     CTAACAATTTTCTCCCTTCATCTAGCTGGAGTTTCGTCTATTTTAGGTGCTATTAATTTT	5818
+reference_guided_mt_consensus_gap_rescued      CTAACAATTTTCTCCCTTCATCTAGCTGGAGTTTCGTCTATTTTAGGTGCTATTAATTTT	5819
+                                               ************************************************************
+
+MW209725.1                                     ATTACCACCATTATCAATATAAAACCCCCAGCCATAACACAGTATCAAACCCCACTCTTT	5878
+reference_guided_mt_consensus_gap_rescued      ATTACCACCATTATCAATATAAAACCCCCAGCCATAACACAGTATCAAACCCCACTCTTT	5879
+                                               ************************************************************
+
+MW209725.1                                     GTATGATCCGTACTTATTACAGCTGTACTACTCCTACTATCACTACCAGTACTAGCCGCA	5938
+reference_guided_mt_consensus_gap_rescued      GTATGATCCGTACTTATTACAGCTGTACTACTCCTACTATCACTACCAGTACTAGCCGCA	5939
+                                               ************************************************************
+
+MW209725.1                                     GGCATTACTATACTGTTAACAGACCGCAACCTTAACACAACTTTCTTTGATCCCGCTGGA	5998
+reference_guided_mt_consensus_gap_rescued      GGCATTACTATACTGTTAACAGACCGCAACCTTAACACAACTTTCTTTGATCCCGCTGGA	5999
+                                               ************************************************************
+
+MW209725.1                                     GGAGGGGACCCAATTCTCTACCAACATCTATTCTGATTTTTCGGCCACCCAGAAGTTTAT	6058
+reference_guided_mt_consensus_gap_rescued      GGAGGGGACCCAATTCTCTACCAACATCTATTCTGATTTTTCGGCCACCCAGAAGTTTAT	6059
+                                               ************************************************************
+
+MW209725.1                                     ATTCTTATTCTTCCAGGATTCGGAATTATTTCACACGTAGTTACCTACTACTCTGGAAAA	6118
+reference_guided_mt_consensus_gap_rescued      ATTCTTATTCTTCCAGGATTCGGAATTATTTCACACGTAGTTACCTACTACTCTGGAAAA	6119
+                                               ************************************************************
+
+MW209725.1                                     AAAGAACCCTTCGGCTACATAGGAATAGTATGGGCAATAATGTCCATTGGCTTCCTAGGC	6178
+reference_guided_mt_consensus_gap_rescued      AAAGAACCCTTCGGCTACATAGGAATAGTATGGGCAATAATGTCCATTGGCTTCCTAGGC	6179
+                                               ************************************************************
+
+MW209725.1                                     TTTATTGTATGAGCCCATCACATATTCACAGTAGGACTGGACGTAGACACACGAGCTTAC	6238
+reference_guided_mt_consensus_gap_rescued      TTTATTGTATGAGCCCATCACATATTCACAGTAGGACTGGACGTAGACACACGAGCTTAC	6239
+                                               ************************************************************
+
+MW209725.1                                     TTTACATCAGCCACTATAATTATCGCAATTCCTACCGGTGTTAAAGTATTTAGCTGACTT	6298
+reference_guided_mt_consensus_gap_rescued      TTTACATCAGCCACTATAATTATCGCAATTCCTACCGGTGTTAAAGTATTTAGCTGACTT	6299
+                                               ************************************************************
+
+MW209725.1                                     GCAACCCTGCACGGAGGCAATATTAAATGATCCCCAGCTATGCTATGAGCCTTAGGCTTT	6358
+reference_guided_mt_consensus_gap_rescued      GCAACCCTGCACGGAGGCAATATTAAATGATCCCCAGCTATGCTATGAGCCTTAGGCTTT	6359
+                                               ************************************************************
+
+MW209725.1                                     ATTTTCTTATTTACAGTCGGTGGTCTTACCGGAATTGTCCTATCTAACTCTTCCCTTGAC	6418
+reference_guided_mt_consensus_gap_rescued      ATTTTCTTATTTACAGTCGGTGGTCTTACCGGAATTGTCCTATCTAACTCTTCCCTTGAC	6419
+                                               ************************************************************
+
+MW209725.1                                     ATTGTGCTCCACGACACATACTATGTAGTAGCCCATTTCCATTATGTTTTATCTATAGGA	6478
+reference_guided_mt_consensus_gap_rescued      ATTGTGCTCCACGACACATACTATGTAGTAGCCCATTTCCATTATGTTTTATCTATAGGA	6479
+                                               ************************************************************
+
+MW209725.1                                     GCAGTATTTGCTATCATAGCAGGATTTGTTCACTGATTCCCACTATTTTCAGGCTACACC	6538
+reference_guided_mt_consensus_gap_rescued      GCAGTATTTGCTATCATAGCAGGATTTGTTCACTGATTCCCACTATTTTCAGGCTACACC	6539
+                                               ************************************************************
+
+MW209725.1                                     CTAGATGATACATGAGCAAAAGCCCACTTCGCCATCATATTCGTAGGAGTAAACATAACA	6598
+reference_guided_mt_consensus_gap_rescued      CTAGATGATACATGAGCAAAAGCCCACTTCGCCATCATATTCGTAGGAGTAAACATAACA	6599
+                                               ************************************************************
+
+MW209725.1                                     TTCTTCCCTCAACATTTCCTAGGTCTTTCAGGTATACCACGACGCTACTCAGACTACCCA	6658
+reference_guided_mt_consensus_gap_rescued      TTCTTCCCTCAACATTTCCTAGGTCTTTCAGGTATACCACGACGCTACTCAGACTACCCA	6659
+                                               ************************************************************
+
+MW209725.1                                     GACGCTTACACCACATGAAACACTGTCTCTTCGATAGGGTCATTCATTTCACTAACAGCT	6718
+reference_guided_mt_consensus_gap_rescued      GACGCTTACACCACATGAAACACTGTCTCTTCGATAGGGTCATTCATTTCACTAACAGCT	6719
+                                               ************************************************************
+
+MW209725.1                                     GTACTCATTATAATCTTTATAATCTGAGAAGCCTTTGCTTCAAAACGAGAAGTAATATCA	6778
+reference_guided_mt_consensus_gap_rescued      GTACTCATTATAATCTTTATAATCTGAGAAGCCTTTGCTTCAAAACGAGAAGTAATATCA	6779
+                                               ************************************************************
+
+MW209725.1                                     GTATCATATGCCTCAACAAATTTAGAATGACTTCATGGCTGCCCTCCACCCTACCACACA	6838
+reference_guided_mt_consensus_gap_rescued      GTATCATATGCCTCAACAAATTTAGAATGACTTCATGGCTGCCCTCCACCCTACCACACA	6839
+                                               ************************************************************
+
+MW209725.1                                     TTCGAAGAGCCAACCTATGTGAAAGTAAAATAAGAAAGGAAGGAATCGAACCCCCTTAAA	6898
+reference_guided_mt_consensus_gap_rescued      TTCGAAGAGCCAACCTATGTGAAAGTAAAATAAGAAAGGAAGGAATCGAACCCCCTTAAA	6899
+                                               ************************************************************
+
+MW209725.1                                     TTGGTTTCAAGCCAACCTCATATCCTATATGTCTTTCTCAATAAGATATTAGTAAAACAA	6958
+reference_guided_mt_consensus_gap_rescued      TTGGTTTCAAGCCAACCTCATATCCTATATGTCTTTCTCAATAAGATATTAGTAAAACAA	6959
+                                               ************************************************************
+
+MW209725.1                                     TTACATAACTTTGTCGAAGTTAAATTATAGACTAAAGATCTATATATCTTACATGGCCTA	7018
+reference_guided_mt_consensus_gap_rescued      TTACATAACTTTGTCGAAGTTAAATTATAGACTAAAGATCTATATATCTTACATGGCCTA	7019
+                                               ************************************************************
+
+MW209725.1                                     CCCATTCCAACTAGGTTTACAAGACGCCACATCCCCCATTATAGAAGAACTAACAAATTT	7078
+reference_guided_mt_consensus_gap_rescued      CCCATTCCAACTAGGTTTACAAGACGCCACATCCCCCATTATAGAAGAACTAACAAATTT	7079
+                                               ************************************************************
+
+MW209725.1                                     CCACGACCACACATTAATAATTGTCTTCCTAATTAGCTCCTTAGTCCTCTACATTATTTC	7138
+reference_guided_mt_consensus_gap_rescued      CCACGACCACACATTAATAATTGTCTTCCTAATTAGCTCCTTAGTCCTCTACATTATTTC	7139
+                                               ************************************************************
+
+MW209725.1                                     ACTAATATTAACAACAAAACTAACACATACAAGCACAATAGATGCACAAGAAGTTGAAAC	7198
+reference_guided_mt_consensus_gap_rescued      ACTAATATTAACAACAAAACTAACACATACAAGCACAATAGATGCACAAGAAGTTGAAAC	7199
+                                               ************************************************************
+
+MW209725.1                                     CATTTGAACCATTCTGCCAGCCGTAATCCTTATTATAATTGCTCTCCCTTCTCTACGCAT	7258
+reference_guided_mt_consensus_gap_rescued      CATTTGAACCATTCTGCCAGCCGTAATCCTTATTATAATTGCTCTCCCTTCTCTACGCAT	7259
+                                               ************************************************************
+
+MW209725.1                                     TTTATATATGATAGACGAAATTAATAACCCCGTCTTAACCGTGAAGACCATAGGACATCA	7318
+reference_guided_mt_consensus_gap_rescued      TTTATATATGATAGACGAAATTAATAACCCCGTCTTAACCGTGAAGACCATAGGACATCA	7319
+                                               ************************************************************
+
+MW209725.1                                     GTGATACTGAAGCTACGAGTATACTGACTATGAGGACCTATGCTTTGACTCATACATAAT	7378
+reference_guided_mt_consensus_gap_rescued      GTGATACTGAAGCTACGAGTATACTGACTATGAGGACCTATGCTTTGACTCATACATAAT	7379
+                                               ************************************************************
+
+MW209725.1                                     TCCAACAAATGACTTGAAACCTGGCGAACTACGACTACTAGAAGTTGACAACCGAGTCGT	7438
+reference_guided_mt_consensus_gap_rescued      TCCAACAAATGACTTGAAACCTGGCGAACTACGACTACTAGAAGTTGACAACCGAGTCGT	7439
+                                               ************************************************************
+
+MW209725.1                                     CCTACCAATAGAACTTCCAATCCGTATGCTAATCTCATCCGAAGATGTCCTCCATTCATG	7498
+reference_guided_mt_consensus_gap_rescued      CCTACCAATAGAACTTCCAATCCGTATGCTAATCTCATCCGAAGATGTCCTCCATTCATG	7499
+                                               ************************************************************
+
+MW209725.1                                     AGCTGTGCCCTCACTAGGACTAAAAACCGACGCCATCCCAGGCCGACTGAATCAAGCAAC	7558
+reference_guided_mt_consensus_gap_rescued      AGCTGTGCCCTCACTAGGACTAAAAACCGACGCCATCCCAGGCCGACTGAATCAAGCAAC	7559
+                                               ************************************************************
+
+MW209725.1                                     AGTAACATCAAACCGACCAGGATTATTCTACGGCCAATGCTCTGAAATTTGCGGATCTAA	7618
+reference_guided_mt_consensus_gap_rescued      AGTAACATCAAACCGACCAGGATTATTCTACGGCCAATGCTCTGAAATTTGCGGATCTAA	7619
+                                               ************************************************************
+
+MW209725.1                                     CCATAGCTTTATACCCATTGTCCTTGAAATGGTTCCACTAAAATATTTTGAAAACTGATC	7678
+reference_guided_mt_consensus_gap_rescued      CCATAGCTTTATACCCATTGTCCTTGAAATGGTTCCACTAAAATATTTTGAAAACTGATC	7679
+                                               ************************************************************
+
+MW209725.1                                     TGCTTCAATAATTTAAACTCACTATGAAGCTAAGAGCGTTAACCTTTTAAGTTAAAGATA	7738
+reference_guided_mt_consensus_gap_rescued      TGCTTCAATAATTTAAACTCACTATGAAGCTAAGAGCGTTAACCTTTTAAGTTAAAGATA	7739
+                                               ************************************************************
+
+MW209725.1                                     GAGACCTTAAAATCTCCATAGTGATATGCCACAACTAGATACATCAACATGATTTATCAC	7798
+reference_guided_mt_consensus_gap_rescued      GAGACCTTAAAATCTCCATAGTGATATGCCACAACTAGATACATCAACATGATTTATCAC	7799
+                                               ************************************************************
+
+MW209725.1                                     AATTATTTCATCAATAATTACCCTATTTATTTTGTTTCAACTAAAAGTCTCATCACAAAC	7858
+reference_guided_mt_consensus_gap_rescued      AATTATTTCATCAATAATTACCCTATTTATTTTGTTTCAACTAAAAGTCTCATCACAAAC	7859
+                                               ************************************************************
+
+MW209725.1                                     ATTCCCACTGGCACCTTCACCAAAGTTACTAACAACCATAAAAGTAAAAACCCCTTGAGA	7918
+reference_guided_mt_consensus_gap_rescued      ATTCCCACTGGCACCTTCACCAAAGTTACTAACAACCATAAAAGTAAAAACCCCTTGAGA	7919
+                                               ************************************************************
+
+MW209725.1                                     ATCAAAATGAACGAAAATCTATTTGCCTCATTCATTACCCCAACAATAATAGGATTTCCA	7978
+reference_guided_mt_consensus_gap_rescued      ATCAAAATGAACGAAAATCTATTTGCCTCATTCATTACCCCAACAATAATAGGATTTCCA	7979
+                                               ************************************************************
+
+MW209725.1                                     ATCGTCGTAGCCATCATTATATTTCCTTCTATCCTATTTCCATCCTCAAAACGCCTAATT	8038
+reference_guided_mt_consensus_gap_rescued      ATCGTCGTAGCCATCATTATATTTCCTTCTATCCTATTTCCATCCTCAAAACGCCTAATT	8039
+                                               ************************************************************
+
+MW209725.1                                     AACAACCGACTCCATTCTTTCCAACACTGACTAATTAAACTTATTATTAAACAAATAATA	8098
+reference_guided_mt_consensus_gap_rescued      AACAACCGACTCCATTCTTTCCAACACTGACTAATTAAACTTATTATTAAACAAATAATA	8099
+                                               ************************************************************
+
+MW209725.1                                     CTAATTCACACACCAAAAGGACGGACATGAACTTTAATGATCGTATCCCTAATTATATTT	8158
+reference_guided_mt_consensus_gap_rescued      CTAATTCACACACCAAAAGGACGGACATGAACTTTAATGATCGTATCCCTAATTATATTT	8159
+                                               ************************************************************
+
+MW209725.1                                     ATTGGATCAACAAATCTCCTAGGCCTTTTACCACATACATTTACACCTACTACCCAACTA	8218
+reference_guided_mt_consensus_gap_rescued      ATTGGATCAACAAATCTCCTAGGCCTTTTACCACATACATTTACACCTACTACCCAACTA	8219
+                                               ************************************************************
+
+MW209725.1                                     TCCATAAACCTAAGTATGGCCATCCCACTATGAGCTGGGGCCGTAATTACAGGATTTCGA	8278
+reference_guided_mt_consensus_gap_rescued      TCCATAAACCTAAGTATGGCCATCCCACTATGAGCTGGGGCCGTAATTACAGGATTTCGA	8279
+                                               ************************************************************
+
+MW209725.1                                     CATAAACTAAAAAGCTCCCTTGCCCACTTCCTTCCACAAGGAACCCCAATTTCACTAATC	8338
+reference_guided_mt_consensus_gap_rescued      CATAAACTAAAAAGCTCCCTTGCCCACTTCCTTCCACAAGGAACCCCAATTTCACTAATC	8339
+                                               ************************************************************
+
+MW209725.1                                     CCAATACTTATTATTATCGAAACAATTAGCCTATTTATTCAACCCATGGCATTAGCAGTC	8398
+reference_guided_mt_consensus_gap_rescued      CCAATACTTATTATTATCGAAACAATTAGCCTATTTATTCAACCCATGGCATTAGCAGTC	8399
+                                               ************************************************************
+
+MW209725.1                                     CGACTAACAGCTAACATCACCGCAGGACACTTATTAATACACCTAATCGGAGGGGCTACT	8458
+reference_guided_mt_consensus_gap_rescued      CGACTAACAGCTAACATCACCGCAGGACACTTATTAATACACCTAATCGGAGGGGCTACT	8459
+                                               ************************************************************
+
+MW209725.1                                     CTAGTACTAATAAACATTAGCCCGCCAACAGCTACCATTACATTTATTATTTTACTTCTT	8518
+reference_guided_mt_consensus_gap_rescued      CTAGTACTAATAAACATTAGCCCGCCAACAGCTACCATTACATTTATTATTTTACTTCTT	8519
+                                               ************************************************************
+
+MW209725.1                                     CTTACAGTCCTAGAATTTGCAGTAGCATTAATTCAAGCCTACGTATTTACCCTCTTAGTA	8578
+reference_guided_mt_consensus_gap_rescued      CTTACAGTCCTAGAATTTGCAGTAGCATTAATTCAAGCCTACGTATTTACCCTCTTAGTA	8579
+                                               ************************************************************
+
+MW209725.1                                     AGCCTATACTTACATGACAATACATAATGACCCACCAAACTCATGCATATCACATAGTTA	8638
+reference_guided_mt_consensus_gap_rescued      AGCCTATACTTACATGACAATACATAATGACCCACCAAACTCATGCATATCACATAGTTA	8639
+                                               ************************************************************
+
+MW209725.1                                     ACCCAAGTCCATGACCATTAACCGGAGCATTTTCAGCCCTCCTTCTAACATCAGGTCTGG	8698
+reference_guided_mt_consensus_gap_rescued      ACCCAAGTCCATGACCATTAACCGGAGCATTTTCAGCCCTCCTTCTAACATCAGGTCTGG	8699
+                                               ************************************************************
+
+MW209725.1                                     TAATATGATTTCACTATAGTTCAATCACACTGTTGACCCTTGGCCTACTCACCAATATCC	8758
+reference_guided_mt_consensus_gap_rescued      TAATATGATTTCACTATAGTTCAATCACACTGTTGACCCTTGGCCTACTCACCAATATCC	8759
+                                               ************************************************************
+
+MW209725.1                                     TCACAATATATCAATGATGACGAGACGTTATCCGTGAAGGAACCTACCAAGGCCATCACA	8818
+reference_guided_mt_consensus_gap_rescued      TCACAATATATCAATGATGACGAGACGTTATCCGTGAAGGAACCTACCAAGGCCATCACA	8819
+                                               ************************************************************
+
+MW209725.1                                     CTCCTATCGTACAAAAAGGACTTCGATATGGTATGATCCTGTTTATTGTCTCAGAAGTAT	8878
+reference_guided_mt_consensus_gap_rescued      CTCCTATCGTACAAAAAGGACTTCGATATGGTATGATCCTGTTTATTGTCTCAGAAGTAT	8879
+                                               ************************************************************
+
+MW209725.1                                     TCTTTTTTGCAGGATTTTTCTGAGCTTTCTATCATTCTAGCCTCGTACCAACACATGATC	8938
+reference_guided_mt_consensus_gap_rescued      TCTTTTTTGCAGGATTTTTCTGAGCTTTCTATCATTCTAGCCTCGTACCAACACATGATC	8939
+                                               ************************************************************
+
+MW209725.1                                     TTGGAGGTTGCTGACCTCCAACAGGAATTTCACCACTTAACCCCCTAGAGGTTCCACTAC	8998
+reference_guided_mt_consensus_gap_rescued      TTGGAGGTTGCTGACCTCCAACAGGAATTTCACCACTTAACCCCCTAGAGGTTCCACTAC	8999
+                                               ************************************************************
+
+MW209725.1                                     TCAATACATCAGTACTTCTAGCATCAGGAGTTTCAATCACATGAGCTCACCATAGTCTAA	9058
+reference_guided_mt_consensus_gap_rescued      TCAATACATCAGTACTTCTAGCATCAGGAGTTTCAATCACATGAGCTCACCATAGTCTAA	9059
+                                               ************************************************************
+
+MW209725.1                                     TAGAAGGTAAGCGAAACCATATAAATCAAGCCCTACTAATTACCATTATTCTAGGACTTT	9118
+reference_guided_mt_consensus_gap_rescued      TAGAAGGTAAGCGAAACCATATAAATCAAGCCCTACTAATTACCATTATTCTAGGACTTT	9119
+                                               ************************************************************
+
+MW209725.1                                     ACTTCACCATCCTACAAGCTTCAGAATACTTTGAAACATCATTCTCCATTTCAGACGGTA	9178
+reference_guided_mt_consensus_gap_rescued      ACTTCACCATCCTACAAGCTTCAGAATACTTTGAAACATCATTCTCCATTTCAGACGGTA	9179
+                                               ************************************************************
+
+MW209725.1                                     TTTATGGATCAACATTCTTCATAGCCACTGGATTCCATGGACTACATGTAATTATCGGAT	9238
+reference_guided_mt_consensus_gap_rescued      TTTATGGATCAACATTCTTCATAGCCACTGGATTCCATGGACTACATGTAATTATCGGAT	9239
+                                               ************************************************************
+
+MW209725.1                                     CAACATTCCTTATTGTTTGCCTACTACGACAACTAAAATTTCACTTTACATCAAAACATC	9298
+reference_guided_mt_consensus_gap_rescued      CAACATTCCTTATTGTTTGCCTACTACGACAACTAAAATTTCACTTTACATCAAAACATC	9299
+                                               ************************************************************
+
+MW209725.1                                     ACTTTGGATTTGAAGCCGCAGCATGATACTGACATTTTGTAGACGTAGTCTGACTTTTCC	9358
+reference_guided_mt_consensus_gap_rescued      ACTTTGGATTTGAAGCCGCAGCATGATACTGACATTTTGTAGACGTAGTCTGACTTTTCC	9359
+                                               ************************************************************
+
+MW209725.1                                     TATATGTCTCCATTTATTGATGAGGATCATACTCCCTTAGTATAACTAATATAACTGACT	9418
+reference_guided_mt_consensus_gap_rescued      TATATGTCTCCATTTATTGATGAGGATCATACTCCCTTAGTATAACTAATATAACTGACT	9419
+                                               ************************************************************
+
+MW209725.1                                     TCCAATTAGTAGATTCTGGAGAAATCCAGAAGAGAGTAATCAACCTGTACATTATCATCT	9478
+reference_guided_mt_consensus_gap_rescued      TCCAATTAGTAGATTCTGGAGAAATCCAGAAGAGAGTAATCAACCTGTACATTATCATCT	9479
+                                               ************************************************************
+
+MW209725.1                                     TCATTAATATTTTATTATCCCTAACACTAATTTTGGTTGCATTCTGGCTTCCCCAAATAA	9538
+reference_guided_mt_consensus_gap_rescued      TCATTAATATTTTATTATCCCTAACACTAATTTTGGTTGCATTCTGGCTTCCCCAAATAA	9539
+                                               ************************************************************
+
+MW209725.1                                     ATTTATATTCAGAAAAAGCAAACCCATATGAATGCGGTTTTGACCCTACAAGCTCCGCAC	9598
+reference_guided_mt_consensus_gap_rescued      ATTTATATTCAGAAAAAGCAAACCCATATGAATGCGGTTTTGACCCTACAAGCTCCGCAC	9599
+                                               ************************************************************
+
+MW209725.1                                     GACTACCATTCTCAATAAAATTTTTCTTAGTAGCTATTACATTCCTTCTATTTGACCTAG	9658
+reference_guided_mt_consensus_gap_rescued      GACTACCATTCTCAATAAAATTTTTCTTAGTAGCTATTACATTCCTTCTATTTGACCTAG	9659
+                                               ************************************************************
+
+MW209725.1                                     AAATTGCACTTCTCCTTCCACTGCCCTGAGCAATCCAAACAATTAAAACCTCTACTATAA	9718
+reference_guided_mt_consensus_gap_rescued      AAATTGCACTTCTCCTTCCACTGCCCTGAGCAATCCAAACAATTAAAACCTCTACTATAA	9719
+                                               ************************************************************
+
+MW209725.1                                     TAACCATAGCCTTTATTCTAGTCACAATCCTATCCCTAGGCCTAGCATACGAATGAACAC	9778
+reference_guided_mt_consensus_gap_rescued      TAACCATAGCCTTTATTCTAGTCACAATCCTATCCCTAGGCCTAGCATACGAATGAACAC	9779
+                                               ************************************************************
+
+MW209725.1                                     AAAAGGGATTAGAGTGGACAGAATAAATGGTAATTAGTTTAAATAAAAATTAATGATTTC	9838
+reference_guided_mt_consensus_gap_rescued      AAAAGGGATTAGAGTGGACAGAATAAATGGTAATTAGTTTAAATAAAAATTAATGATTTC	9839
+                                               ************************************************************
+
+MW209725.1                                     GACTCATTAGATTATGATGATACTCATAATTACCAATATGCCATCTGCCTTCTTCAACCT	9898
+reference_guided_mt_consensus_gap_rescued      GACTCATTAGATTATGATGATACTCATAATTACCAATATGCCATCTGCCTTCTTCAACCT	9899
+                                               ************************************************************
+
+MW209725.1                                     GACCATAGCCTTCTCACTATCACTTCTAGGGACACTTATATTTCGCTCTCACCTAATATC	9958
+reference_guided_mt_consensus_gap_rescued      GACCATAGCCTTCTCACTATCACTTCTAGGGACACTTATATTTCGCTCTCACCTAATATC	9959
+                                               ************************************************************
+
+MW209725.1                                     CACATTACTATGTCTAGAAGGCATAATATTATCCTTATTTATTATAACTTCAGTAGCCTG	10018
+reference_guided_mt_consensus_gap_rescued      CACATTACTATGTCTAGAAGGCATAATATTATCCTTATTTATTATAACTTCAGTAGCCTG	10019
+                                               ************************************************************
+
+MW209725.1                                     CCTAAATTCCAACTCCATAAGCTCTATACCAATCCCTATTACCATCCTAGTCTTTGCAGC	10078
+reference_guided_mt_consensus_gap_rescued      CCTAAATTCCAACTCCATAAGCTCTATACCAATCCCTATTACCATCCTAGTCTTTGCAGC	10079
+                                               ************************************************************
+
+MW209725.1                                     CTGTGAAGCAGCTGTAGGACTAGCCTTACTAGTAAAAATTTCAAATACGTACGGAACAGA	10138
+reference_guided_mt_consensus_gap_rescued      CTGTGAAGCAGCTGTAGGACTAGCCTTACTAGTAAAAATTTCAAATACGTACGGAACAGA	10139
+                                               ************************************************************
+
+MW209725.1                                     CTACGTCCAAAACCTCAACCTCCTACAATGCTAAAAATTATTTTCCCCTCACTGATACTA	10198
+reference_guided_mt_consensus_gap_rescued      CTACGTCCAAAACCTCAACCTCCTACAATGCTAAAAATTATTTTCCCCTCACTGATACTA	10199
+                                               ************************************************************
+
+MW209725.1                                     CTTCCACTAACCTGATTATCTAACCCCAAAAAAACCTGAACAAACGTAACCTCATACAGT	10258
+reference_guided_mt_consensus_gap_rescued      CTTCCACTAACCTGATTATCTAACCCCAAAAAAACCTGAACAAACGTAACCTCATACAGT	10259
+                                               ************************************************************
+
+MW209725.1                                     TTTTTAATTAGCCTAGTCAGCCTCTCACTCCTATGACAAACCGACGAAAATTATAAAAAC	10318
+reference_guided_mt_consensus_gap_rescued      TTTTTAATTAGCCTAGTCAGCCTCTCACTCCTATGACAAACCGACGAAAATTATAAAAAC	10319
+                                               ************************************************************
+
+MW209725.1                                     TTCTCAAACATATTTTCCTCAGATCCTCTATCCACACCATTAATTATCTTAACAGCCTGA	10378
+reference_guided_mt_consensus_gap_rescued      TTCTCAAACATATTTTCCTCAGATCCTCTATCCACACCATTAATTATCTTAACAGCCTGA	10379
+                                               ************************************************************
+
+MW209725.1                                     TTACTGCCACTAATATTAATAGCTAGTCAAAACCACCTAAAAAAAGATAATAACGTCCTA	10438
+reference_guided_mt_consensus_gap_rescued      TTACTGCCACTAATATTAATAGCTAGTCAAAACCACCTAAAAAAAGATAATAACGTCCTA	10439
+                                               ************************************************************
+
+MW209725.1                                     CAAAAGCTCTACATCTCAATGCTAGTCAGTTTACAAGCTCTCCTAATCATAACTTTCTCA	10498
+reference_guided_mt_consensus_gap_rescued      CAAAAGCTCTACATCTCAATGCTAGTCAGTTTACAAGCTCTCCTAATCATAACTTTCTCA	10499
+                                               ************************************************************
+
+MW209725.1                                     GCAACTGAACTAATTATATTCTATATTTTATTTGAAGCAACCTTAATCCCAACACTTATT	10558
+reference_guided_mt_consensus_gap_rescued      GCAACTGAACTAATTATATTCTATATTTTATTTGAAGCAACCTTAATCCCAACACTTATT	10559
+                                               ************************************************************
+
+MW209725.1                                     ATCATTACCCGATGAGGGAATCAAACTGAACGCTTAAATGCAGGAATTTACTTCCTATTT	10618
+reference_guided_mt_consensus_gap_rescued      ATCATTACCCGATGAGGGAATCAAACTGAACGCTTAAATGCAGGAATTTACTTCCTATTT	10619
+                                               ************************************************************
+
+MW209725.1                                     TACACCCTAATCGGCTCTATTCCACTACTAATTGCCCTCATCCTTATCCAAAACCACATC	10678
+reference_guided_mt_consensus_gap_rescued      TACACCCTAATCGGCTCTATTCCACTACTAATTGCCCTCATCCTTATCCAAAACCATATC	10679
+                                               ******************************************************** ***
+
+MW209725.1                                     GGAACTCTAAACCTCATAATTCTATCATTCACAACACACGCCCTAAACACCTCATGATCT	10738
+reference_guided_mt_consensus_gap_rescued      GGAACTCTAAACCTCATAATTTTATCATTCACAACACACACCTTAGACACTTCATGATCT	10739
+                                               ********************* ***************** ** ** **** *********
+
+MW209725.1                                     AATAACTTACTATGGCTAGCATGTATAATAGCATTTCTCATTAAAATACCACTATATGGA	10798
+reference_guided_mt_consensus_gap_rescued      AACAACTTACTATGGCTAGCATGTATAATAGCATTTCTCATTAAAATACCACTATATGGA	10799
+                                               ** *********************************************************
+
+MW209725.1                                     GTCCACTTGTGACTCCCTAAGGCCCATGTTGAGGCTCCTATTGCCGGATCAATAATTCTA	10858
+reference_guided_mt_consensus_gap_rescued      GTCCACTTGTGACTCCCTAAGGCCCATGTTGAGGCTCCTATTGCCGGATCAATAATTCTA	10859
+                                               ************************************************************
+
+MW209725.1                                     GCCGCGATTCTTCTAAAATTAGGTAGCTACGGAATAATTCGCATCTCCATTATTCTAGAC	10918
+reference_guided_mt_consensus_gap_rescued      GCCGCGATTCTTCTAAAATTAGGTAGCTACGGAATAATTCGCATCTCCATTATTCTAGAC	10919
+                                               ************************************************************
+
+MW209725.1                                     CCACTAACAAAATATATAGCGTACCCCTTCATCCTTCTATCCTTATGAGGAATAATTATA	10978
+reference_guided_mt_consensus_gap_rescued      CCACTAACAAAATATATAGCGTACCCCTTCATCCTTCTATCCTTATGAGGAATAATTATA	10979
+                                               ************************************************************
+
+MW209725.1                                     ACTAGCTCGATCTGCTTACGCCAAACAGATTTAAAATCACTAATTGCCTACTCCTCAGTC	11038
+reference_guided_mt_consensus_gap_rescued      ACTAGCTCGATCTGCTTACGCCAAACAGATTTAAAATCACTAATTGCCTACTCCTCAGTC	11039
+                                               ************************************************************
+
+MW209725.1                                     AGCCATATAGCACTTGTTATTGCATCAATCATGATTCAAACCCCATGAAGCTTTATAGGA	11098
+reference_guided_mt_consensus_gap_rescued      AGCCATATAGCACTTGTTATTGCATCAATCATGATTCAAACCCCATGAAGCTTTATAGGA	11099
+                                               ************************************************************
+
+MW209725.1                                     GCAACAATACTAATAATTGCTCATGGTCTCACATCATCGCTCCTATTCTGCCTAGCTAAT	11158
+reference_guided_mt_consensus_gap_rescued      GCAACAATACTAATAATTGCTCATGGTCTCACATCATCGCTCCTATTCTGCCTAGCTAAT	11159
+                                               ************************************************************
+
+MW209725.1                                     TCCAACTACGAACGAATTCACAGTCGTACTATGATTATGGCCCGTGGACTTCAAATGGTC	11218
+reference_guided_mt_consensus_gap_rescued      TCCAACTACGAACGAATTCACAGTCGTACTATGATTATGGCCCGTGGACTTCAAATGGTC	11219
+                                               ************************************************************
+
+MW209725.1                                     TTCCCACTCATAGCCACATGATGACTAATAGCAAGTTTAGCTAATCTAGCCCTACCCCCC	11278
+reference_guided_mt_consensus_gap_rescued      TTCCCACTCATAGCCACATGATGACTAATAGCAAGTTTAGCTAATCTAGCCCTACCCCCC	11279
+                                               ************************************************************
+
+MW209725.1                                     TCAATCAACCTAATAGGCGAACTGTACATTACTATATCATTATTCTCTTGATCTAACTTT	11338
+reference_guided_mt_consensus_gap_rescued      TCAATCAACCTAATAGGCGAACTGTACATTACTATATCATTATTCTCTTGATCTAACTTT	11339
+                                               ************************************************************
+
+MW209725.1                                     ACCATCATCCTCATAGGAATTAATATTATTATTACAGGTATGTACTCAATATACATAATT	11398
+reference_guided_mt_consensus_gap_rescued      ACCATCATCCTCATAGGAATTAATATTATTATTACAGGTATGTACTCAATATACATAATT	11399
+                                               ************************************************************
+
+MW209725.1                                     ATCACCACCCAACGTGGCAAACTAACCAACCATATAATTAACCTCCAACCCTCACACACA	11458
+reference_guided_mt_consensus_gap_rescued      ATCACCACCCAACGTGGCAAACTAACCAACCATATAATTAACCTCCAACCCTCACACACA	11459
+                                               ************************************************************
+
+MW209725.1                                     CGAGAACTAACACTAATGGCCCTGCACATAATCCCACTTATTCTTCTAACCATTAGTCCT	11518
+reference_guided_mt_consensus_gap_rescued      CGAGAACTAACACTAATGGCCCTGCACATAATCCCACTTATTCTTCTAACCATTAGTCCT	11519
+                                               ************************************************************
+
+MW209725.1                                     AAACTCATTACAGGCCTGACAATTTGTGAATATAGTTTACAAAAAACATTAGACTGTGAA	11578
+reference_guided_mt_consensus_gap_rescued      AAACTCATTACAGGCCTGACAATTTGTGAATATAGTTTACAAAAAACATTAGACTGTGAA	11579
+                                               ************************************************************
+
+MW209725.1                                     TCTAACAACAGGAAATAAACCTCCTTATTCACCAAGGAAGCTTGCAAGAACTGCTAATTC	11638
+reference_guided_mt_consensus_gap_rescued      TCTAACAACAGGAAATAAACCTCCTTATTCACCAAGGAAGCTTGCAAGAACTGCTAATTC	11639
+                                               ************************************************************
+
+MW209725.1                                     ATGCTTCCATGTTTAAAGACATGGCTTTCTTACTTTTATAGGATAATAGTAATCCATTGG	11698
+reference_guided_mt_consensus_gap_rescued      ATGCTTCCATGTTTAAAGACATGGCTTTCTTACTTTTATAGGATAATAGTAATCCATTGG	11699
+                                               ************************************************************
+
+MW209725.1                                     TCTTAGGAACCAAAAACCTTGGTGCAAATCCAAATAAAAGTAATCAACATTTTCACATCC	11758
+reference_guided_mt_consensus_gap_rescued      TCTTAGGAACCAAAAACCTTGGTGCAAATCCAAATAAAAGTAATCAACATTTTCACATCC	11759
+                                               ************************************************************
+
+MW209725.1                                     TCAATCTTATTAATTTTCATTCTGCTACTGTCCCCAATCCTAATCTCAATATCAAACCTA	11818
+reference_guided_mt_consensus_gap_rescued      TCAATCTTATTAATTTTCATTCTGCTACTGTCCCCAATCCTAATCTCAATATCAAACCTA	11819
+                                               ************************************************************
+
+MW209725.1                                     ATTAAGCATATCAACTTCCCACTGTATACCACCACATCAATCAAGTTCTCGTTCCTTATT	11878
+reference_guided_mt_consensus_gap_rescued      ATTAAGCATATCAACTTCCCACTGTATACCACCACATCAATCAAGTTCTCGTTCCTTATT	11879
+                                               ************************************************************
+
+MW209725.1                                     AGCCTCTTACCCCTATTAATATTCTTCCACAATAATATAGAATATATAATTACAACCTGA	11938
+reference_guided_mt_consensus_gap_rescued      AGCCTCTTACCCCTATTAATATTCTTCCACAATAATATAGAATATATAATTACAACCTGA	11939
+                                               ************************************************************
+
+MW209725.1                                     CACTGAATCACTATAAACTCGATAGAATTAAAAATGAGCTTCAAAATTGACTTTTTCTCG	11998
+reference_guided_mt_consensus_gap_rescued      CACTGAATCACTATAAACTCGATAGAATTAAAAATGAGCCTCAAAATTGACTTTTTCTCG	11999
+                                               *************************************** ********************
+
+MW209725.1                                     ATCCTATTTATATCCGTAGCCCTTTTCGTCACATGATCAATCATACAGTTTTCTTCATGA	12058
+reference_guided_mt_consensus_gap_rescued      ATCCTATTTATATCCGTAGCCCTTTTCGTCACATGATCAATCATACAGTTTTCTTCATGA	12059
+                                               ************************************************************
+
+MW209725.1                                     TACATGCACTCAGACCCAAACATCAACCGATTCATTAAATACCTTACACTATTCCTGATT	12118
+reference_guided_mt_consensus_gap_rescued      TACATGCACTCAGACCCAAACATCAACCGATTCATTAAATACCTTACACTATTCCTGATT	12119
+                                               ************************************************************
+
+MW209725.1                                     ACTATACTCATCCTCACCTCAGCCAACAACATATTCCAACTTTTCATCGGCTGAGAAGGA	12178
+reference_guided_mt_consensus_gap_rescued      ACTATACTTATCCTCACCTCAGCCAACAACATATTCCAACTTTTCATCGGCTGAGAAGGA	12179
+                                               ******** ***************************************************
+
+MW209725.1                                     GTGGGGATTATATCTTTCCTACTGATTGGATGATGGTACGGACGAACAGACGCAAACACT	12238
+reference_guided_mt_consensus_gap_rescued      GTGGGGATTATATCTTTCCTACTGATTGGATGATGGTACGGACGAACAGACGCAAACACT	12239
+                                               ************************************************************
+
+MW209725.1                                     GCAGCCCTTCAAGCAATCCTCTACAACCGCATCGGAGATATCGGATTCATTTTAGCTATA	12298
+reference_guided_mt_consensus_gap_rescued      GCAGCCCTTCAAGCAATCCTCTACAACCGCATCGGAGATATCGGATTCATTTTAGCTATA	12299
+                                               ************************************************************
+
+MW209725.1                                     GTTTGATTTTCCCTAAACATAAACTCATGAGAACTTCAACAAATTATATTCTCCAACAAT	12358
+reference_guided_mt_consensus_gap_rescued      GTTTGATTTTCCCTAAACATAAACTCATGAGAACTTCAACAAATTATATTCTCCAACAAT	12359
+                                               ************************************************************
+
+MW209725.1                                     AACGACAATCTGCTCCCACTTCTAGGACTACTAATCGCAGCTACAGGAAAATCAGCACAA	12418
+reference_guided_mt_consensus_gap_rescued      AACGACAATCTGCTCCCACTTCTAGGACTACTAATCGCAGCTACAGGAAAATCAGCACAA	12419
+                                               ************************************************************
+
+MW209725.1                                     TTTGGTCTCCACCCATGACTACCATCAGCAATAGAAGGCCCTACACCAGTTTCAGCTCTA	12478
+reference_guided_mt_consensus_gap_rescued      TTTGGTCTCCACCCATGACTACCATCAGCAATAGAAGGCCCTACACCAGTTTCAGCTCTA	12479
+                                               ************************************************************
+
+MW209725.1                                     CTCCACTCAAGTACAATAGTAGTTGCAGGAATCTTCCTTCTAGTCCGATTTCACCCACTC	12538
+reference_guided_mt_consensus_gap_rescued      CTCCACTCAAGTACAATAGTAGTTGCAGGAATCTTCCTTCTAGTCCGATTTCACCCACTC	12539
+                                               ************************************************************
+
+MW209725.1                                     ACAACTAATAACAACTATATTTTAACAACTATACTTTGCCTTGGAGCCCTAACCACATTA	12598
+reference_guided_mt_consensus_gap_rescued      ACAACTAATAACAACTATATTTTAACAACTATACTTTGCCTTGGAGCCCTAACCACATTA	12599
+                                               ************************************************************
+
+MW209725.1                                     TTTACAGCTATTTGTGCCCTCACACAAAACGATATCAAAAAAATTGTCGCTTTCTCCACA	12658
+reference_guided_mt_consensus_gap_rescued      TTTACAGCTATTTGTGCCCTCACACAAAACGATATCAAAAAAATTGTCGCTTTCTCCACA	12659
+                                               ************************************************************
+
+MW209725.1                                     TCAAGTCAACTAGGCTTAATAATAGTGACACTAGGGATAAACCAACCATACCTAGCATTT	12718
+reference_guided_mt_consensus_gap_rescued      TCAAGTCAACTAGGCTTAATAATAGTGACACTAGGGATAAACCAACCATACCTAGCATTT	12719
+                                               ************************************************************
+
+MW209725.1                                     CTACATATCTGCACCCACGCATTCTTCAAAGCCATACTCTTTATATGCTCTGGCTCAATT	12778
+reference_guided_mt_consensus_gap_rescued      CTACATATCTGCACCCACGCATTCTTCAAAGCCATACTCTTTATATGCTCTGGCTCAATT	12779
+                                               ************************************************************
+
+MW209725.1                                     ATCCATAGCCTAGCAGACGAACAAGACATCCGAAAAATAGGAAATATCACAAAAACCATG	12838
+reference_guided_mt_consensus_gap_rescued      ATCCATAGCCTAGCAGACGAACAAGACATCCGAAAAATAGGAAATATCACAAAAACCATG	12839
+                                               ************************************************************
+
+MW209725.1                                     CCATTCACCTCATCATGCTTAGTAATCGGAAGCTTAGCCCTCACAGGAATACCATTCCTA	12898
+reference_guided_mt_consensus_gap_rescued      CCATTCACCTCATCATGCTTAGTAATCGGAAGCTTAGCCCTCACAGGAATACCGTTCCTA	12899
+                                               ***************************************************** ******
+
+MW209725.1                                     ACAGGATTCTACTCAAAAGACTTAATCATTGAAGCAATTAATACCTGCAACACCAACGCC	12958
+reference_guided_mt_consensus_gap_rescued      ACAGGATTCTACTCAAAAGACTTAATCATTGAAGCAATTAATACCTGCAACACCAACGCC	12959
+                                               ************************************************************
+
+MW209725.1                                     TGAGCCCTACTAATTACACTAATCGCCACTTCTATAACAGCTATATACAGCATACGAATC	13018
+reference_guided_mt_consensus_gap_rescued      TGAGCCCTACTAATTACACTAATCGCCACTTCTATAACAGCTATATACAGCATACGAATC	13019
+                                               ************************************************************
+
+MW209725.1                                     ATTTATTTCGTAACAATAACAAAACCACGTTTTCCTCCCCTAATCTCCATTAACGAGAAT	13078
+reference_guided_mt_consensus_gap_rescued      ATTTATTTCGTAACAATAACAAAACCACGTTTTCCTCCCCTAATCTCCATTAACGAGAAT	13079
+                                               ************************************************************
+
+MW209725.1                                     GATCCAGACCTCATAAACCCAATCAAACGCCTAGCATTCGGAAGCATCTTTGCAGGATTT	13138
+reference_guided_mt_consensus_gap_rescued      GATCCAGACCTCATAAACCCAATCAAACGCCTAGCATTCGGAAGCATCTTTGCAGGATTT	13139
+                                               ************************************************************
+
+MW209725.1                                     GTCATCTCATACAACATCCCACCGACCAACATCCCAATCCTTACAATACCATGACTTTTA	13198
+reference_guided_mt_consensus_gap_rescued      GTCATCTCATACAACATCCCACCGACCAACATCCCAATCCTTACAATACCATGACTTTTA	13199
+                                               ************************************************************
+
+MW209725.1                                     AAAACCACAGCCCTAATTATTTCAGTATTAGGATTCCTTATTGCACTAGAACTAAACAAC	13258
+reference_guided_mt_consensus_gap_rescued      AAAACCACAGCCCTAATTATTTCAGTATTAGGATTCCTTATTGCACTAGAACTAAACAAC	13259
+                                               ************************************************************
+
+MW209725.1                                     CTTACCATAAAACTATCAATAAGTAAAGCAAACCCATACTCATCTTTCTCAACTTTACTA	13318
+reference_guided_mt_consensus_gap_rescued      CTTACCATAAAACTATCAATAAGTAAAGCAAACCCATACTCATCTTTCTCAACTTTACTA	13319
+                                               ************************************************************
+
+MW209725.1                                     GGTTTTTTCCCATCTATTATTCACCGCATTACACCCATAAAATCTCTCAACCTAAGCCTA	13378
+reference_guided_mt_consensus_gap_rescued      GGTTTTTTCCCATCTATTATTCACCGCATTACACCCATAAAATCTCTCAACCTAAGCCTA	13379
+                                               ************************************************************
+
+MW209725.1                                     AAGACATCCCTGACCCTCCTAGACTTGATCTGACTAGAAAAAACCATTCCAAAATCTACC	13438
+reference_guided_mt_consensus_gap_rescued      AAGACATCCCTGACCCTCCTAGACTTGATCTGACTAGAAAAAACCATTCCAAAATCTACC	13439
+                                               ************************************************************
+
+MW209725.1                                     TCAACTCTCCACACAAACATAACCACTCTAACAACCAACCAAAAAGGCTTGATTAAATTA	13498
+reference_guided_mt_consensus_gap_rescued      TCAACTCTCCACACAAACATAACCACTCTAACAACCAACCAAAAAGGCTTGATTAAATTA	13499
+                                               ************************************************************
+
+MW209725.1                                     TACTTTTTAACATTCCTAATTAACATCACCTTAATTATTATCCTGTACTCTATTAATCCC	13558
+reference_guided_mt_consensus_gap_rescued      TACTTTTTAACATTCCTAATTAACATCACCTTAATTATTATCCTGTACTCTATTAATCCC	13559
+                                               ************************************************************
+
+MW209725.1                                     GAGTAATCTCAATAATAATAAAGATACCCGCAAACAAAGATCACCCAGCTACCACCATCA	13618
+reference_guided_mt_consensus_gap_rescued      GAGTAATCTCAATAATAATAAAGATACCCGCAAACAAAGATCACCCAGCTACCACCATCA	13619
+                                               ************************************************************
+
+MW209725.1                                     TTCAAGTAGCACAGCTATATATCGCCGCTACCCCAATCCCCCCTTCCAGCATAACCCCAA	13678
+reference_guided_mt_consensus_gap_rescued      TTCAAGTAGCACAGCTATATATCGCCGCTACCCCAATCCCCCCTTCCAGCATAACCCCAA	13679
+                                               ************************************************************
+
+MW209725.1                                     CATCGTCAACCTCATATATCAATCAATCCCCCAAAGCATCAAGATTAACTACTCCGATTT	13738
+reference_guided_mt_consensus_gap_rescued      CATCGTCAACCTCATATATCAATCAATCCCCCAAAGCATCAAGATTAACTACTCCGATTT	13739
+                                               ************************************************************
+
+MW209725.1                                     CATCGTAGTAATTAAGCACATACACTACAACTACCTCTATAATTACTCCTAACACCAGAA	13798
+reference_guided_mt_consensus_gap_rescued      CATCGTAGTAATTAAGCACATACACTACAACTACCTCTATAATTACTCCTAACACCAGAA	13799
+                                               ************************************************************
+
+MW209725.1                                     AACCCAAAATTAACCAATTAGATCCCCAAGTCTCTGGGTACTCCTCAGTAGCCATAGCAG	13858
+reference_guided_mt_consensus_gap_rescued      AACCCAAAATTAACCAATTAGATCCCCAAGTCTCTGGGTACTCCTCAGTAGCCATAGCAG	13859
+                                               ************************************************************
+
+MW209725.1                                     TCGTGTACCCAAACACAACCAACATCCCCCCTAAATAAATTAAAAAGACCATTAGACCTA	13918
+reference_guided_mt_consensus_gap_rescued      TCGTGTACCCAAACACAACCAACATCCCCCCTAAATAAATTAAAAAGACCATTAGACCTA	13919
+                                               ************************************************************
+
+MW209725.1                                     AAAACGACCCACCAAACCCTAAAACCATTAAACAACCAACAAACCCGCTAACGATTAAAC	13978
+reference_guided_mt_consensus_gap_rescued      AAAACGACCCACCAAACCCTAAAACCATTAAACAACCAACAAACCCGCTAACGATTAAAC	13979
+                                               ************************************************************
+
+MW209725.1                                     CCAAACCTCCATAAATAGGTGAAGGCTTTAATGCCAACCCAAGGCAACCAACCAAAAATA	14038
+reference_guided_mt_consensus_gap_rescued      CCAAACCTCCATAAATAGGTGAAGGCTTTAATGCCAACCCAAGGCAACCAACCAAAAATA	14039
+                                               ************************************************************
+
+MW209725.1                                     ATGAACTCAAAATAAAAATATAATTATTCATTATTTCCACACAGCATTTAACTGCGACCA	14098
+reference_guided_mt_consensus_gap_rescued      ATGAACTCAAAATAAAAATATAATTATTCATTATTTCCACACAGCATTTAACTGCGACCA	14099
+                                               ************************************************************
+
+MW209725.1                                     ATGACATGAAAAATCATCGTTGTAATTCAACTACAGAAACATCTAATGACAAACATGCGG	14158
+reference_guided_mt_consensus_gap_rescued      ATGACATGAAAAATCATCGTTGTAATTCAACTACAGAAACATCTAATGACAAACATGCGG	14159
+                                               ************************************************************
+
+MW209725.1                                     AAAACACACCCATTATTTAAAATTATTAATCATTCATTCATTGACTTACCCGCCCCATCC	14218
+reference_guided_mt_consensus_gap_rescued      AAAACACACCCATTATTTAAAATTATTAATCATTCATTCATTGACTTACCCGCCCCATCC	14219
+                                               ************************************************************
+
+MW209725.1                                     AATATCTCATCATGATGAAACTTCGGATCTCTCCTAGGAATCTGTCTAATAGTCCAAATC	14278
+reference_guided_mt_consensus_gap_rescued      AATATCTCATCATGATGAAACTTCGGATCTCTCCTAGGAATCTGTCTAATAGTCCAAATC	14279
+                                               ************************************************************
+
+MW209725.1                                     ATTACAGGCCTATTCTTAGCTATACACTATACATCAGACACAATGACAGCCTTCTCATCA	14338
+reference_guided_mt_consensus_gap_rescued      ATTACAGGCCTATTCTTAGCTATACACTATACATCAGACACAATGACAGCCTTCTCATCA	14339
+                                               ************************************************************
+
+MW209725.1                                     GTAACTCATATCTGCCGAGACGTGAATTACGGGTGATTAATCCGATATATACACGCAAAT	14398
+reference_guided_mt_consensus_gap_rescued      GTAACTCATATCTGCCGAGACGTGAATTACGGGTGATTAATCCGATATATACACGCAAAT	14399
+                                               ************************************************************
+
+MW209725.1                                     GGAGCCTCAATATTTTTCATTTGCTTATTCCTTCATGTCGGACGAGGAATGTACTACGGA	14458
+reference_guided_mt_consensus_gap_rescued      GGAGCCTCAATATTTTTCATTTGCTTATTCCTTCATGTCGGACGAGGAATGTACTACGGA	14459
+                                               ************************************************************
+
+MW209725.1                                     TCCTACACATTCATAGAAACATGAAATATTGGAGTACTTCTACTATTCGCAGTAATAGCC	14518
+reference_guided_mt_consensus_gap_rescued      TCCTACACATTCATAGAAACATGAAATATTGGAGTACTTCTACTATTCGCAGTAATAGCC	14519
+                                               ************************************************************
+
+MW209725.1                                     ACAGCATTTATAGGCTATGTACTCCCATGAGGACAAATATCATTCTGAGGAGCCACAGTT	14578
+reference_guided_mt_consensus_gap_rescued      ACAGCATTTATAGGCTATGTACTCCCATGAGGACAAATATCATTCTGAGGAGCCACAGTT	14579
+                                               ************************************************************
+
+MW209725.1                                     ATTACAAACCTCCTATCAGCTATCCCATATATTGGAACAACCCTAGTCGAATGGATTTGA	14638
+reference_guided_mt_consensus_gap_rescued      ATTACAAACCTCCTATCAGCTATCCCATATATTGGAACAACCCTAGTCGAATGGATTTGA	14639
+                                               ************************************************************
+
+MW209725.1                                     GGGGGCTTCTCAGTAGACAAAGCTACCCTAACCCGATTCTTCGCCTTCCACTTCATCTTG	14698
+reference_guided_mt_consensus_gap_rescued      GGGGGCTTCTCAGTAGACAAAGCTACCCTAACCCGATTCTTCGCCTTCCACTTCATCTTG	14699
+                                               ************************************************************
+
+MW209725.1                                     CCATTCATCATCGCAGCCCTAGCAATCGTACACCTCCTCTTTCTCCATGAAACAGGATCA	14758
+reference_guided_mt_consensus_gap_rescued      CCATTCATCATCGCAGCCCTAGCAATCGTACACCTCCTCTTTCTCCATGAAACAGGATCA	14759
+                                               ************************************************************
+
+MW209725.1                                     AACAACCCAACAGGACTAAACTCAGACGCAGATAAAATTCCATTCCACCCCTACTACACA	14818
+reference_guided_mt_consensus_gap_rescued      AACAACCCAACAGGACTAAACTCAGACGCAGATAAAATTCCATTCCACCCCTACTACACA	14819
+                                               ************************************************************
+
+MW209725.1                                     ATCAAAGATATCCTAGGTATCCTAATTATATTTCTACTTCTAATAACCCTAGTATTGTTC	14878
+reference_guided_mt_consensus_gap_rescued      ATCAAAGATATCCTAGGTATCCTAATTATATTTCTACTTCTAATAACCCTAGTATTGTTC	14879
+                                               ************************************************************
+
+MW209725.1                                     TTCCCAGACATACTAGGAGACCCAGACAATTACATACCAGCCAACCCACTAAACACCCCA	14938
+reference_guided_mt_consensus_gap_rescued      TTCCCAGACATACTAGGAGACCCAGACAATTACATACCAGCCAACCCACTAAACACCCCA	14939
+                                               ************************************************************
+
+MW209725.1                                     CCACATATTAAACCCGAATGATATTTCCTATTCGCCTACGCCATTTTACGCTCAATCCCC	14998
+reference_guided_mt_consensus_gap_rescued      CCACATATTAAACCCGAATGATATTTCCTATTCGCCTACGCCATTTTACGCTCAATCCCC	14999
+                                               ************************************************************
+
+MW209725.1                                     AACAAACTAGGAGGAGTCCTAGCCTTAATCTTATCTATTCTAATTTTAGCCCTAATACCT	15058
+reference_guided_mt_consensus_gap_rescued      AACAAACTAGGAGGAGTCCTAGCCTTAATCTTATCTATTCTAATTTTAGCCCTAATACCT	15059
+                                               ************************************************************
+
+MW209725.1                                     TTTCTCCACACTTCAAAACAACGAAGCCTAATATTCCGCCCAATCACACAAATCTTGTAT	15118
+reference_guided_mt_consensus_gap_rescued      TTTCTCCACACTTCAAAACAACGAAGCCTAATATTCCGCCCAATCACACAAATCTTGTAT	15119
+                                               ************************************************************
+
+MW209725.1                                     TGAATCCTAGTAGCAAACCTACTGATCTTAACTTGAATTGGAGGCCAACCAGTAGAACAT	15178
+reference_guided_mt_consensus_gap_rescued      TGAATCCTAGTAGCAAACCTACTGATCTTAACTTGAATTGGAGGCCAACCAGTAGAACAT	15179
+                                               ************************************************************
+
+MW209725.1                                     CCATTCATTATTATTGGCCAATTAGCTTCCATCTCATACTTCTCGATCATCTTAATCCTC	15238
+reference_guided_mt_consensus_gap_rescued      CCATTCATTATTATTGGCCAATTAGCTTCCATCTCATACTTCTCGATCATCTTAATCCTC	15239
+                                               ************************************************************
+
+MW209725.1                                     ATACCAATCTCAGGAATTATTGAAGACAAAATACTAAAATTATATCCATGTCTTGATAGT	15298
+reference_guided_mt_consensus_gap_rescued      ATACCAATCTCAGGAATTATTGAAGACAAAATACTAAAATTATATCCATGTCTTGATAGT	15299
+                                               ************************************************************
+
+MW209725.1                                     ATAAACATTACCCTGGTCTTGTAAACCTGAAATGAAGATCTTCTCTTCTCAAGACATCAA	15358
+reference_guided_mt_consensus_gap_rescued      ATAAACATTACCCTGGTCTTGTAAACCTGAAATGAAGATCTTCTCTTCTCAAGACATCAA	15359
+                                               ************************************************************
+
+MW209725.1                                     GAAGAAGGAATTAACTCCCCACCACCAGCACCCAAAGCTGGTATTCTAATTAAACTACTT	15418
+reference_guided_mt_consensus_gap_rescued      GAAGAAGGAATTAACTCCCCACCACCAGCACCCAAAGCTGGTATTCTAATTAAACTACTT	15419
+                                               ************************************************************
+
+MW209725.1                                     CTTGAGTACATAAATTTACATAGTACAATAGTACATTTATGTATATCGTACATTAAATTA	15478
+reference_guided_mt_consensus_gap_rescued      CTTGAGTACATAAATTTACATAGTACAATAGTACATTTATGTATATCGTACATTAAATTA	15479
+                                               ************************************************************
+
+MW209725.1                                     TATTCCCCAAGCATATAAGCAAGTAAATTATATCAATGATCTAGCACATAAAACCATACT	15538
+reference_guided_mt_consensus_gap_rescued      TATTCCCCAAGCATATAAGCAAGTAAATTATATCAATGATCTAGCACATAAAACCATACT	15539
+                                               ************************************************************
+
+MW209725.1                                     CAACATAACATACACCCATACATGAATATTATCATAATACATTAAATCAATGTTTTTAAG	15598
+reference_guided_mt_consensus_gap_rescued      CAACATAACATACACCCATACATGAATATTATCATAATACATTAAATCAATGTTTTTAAG	15599
+                                               ************************************************************
+
+MW209725.1                                     ACATATCTGTGTTATCTGACATACACCATACAGTCATAAACCCTTCTCTTCCATATGACT	15658
+reference_guided_mt_consensus_gap_rescued      ACATATCTGTGTTATCTGACATACACCATACAGTCATAAACCCTTCTCTTCCATATGACT	15659
+                                               ************************************************************
+
+MW209725.1                                     ATCCCCTTCCCCATTTGGTCTATTAATCTACCATCCTCCGTGAAACCAACAACCCGCCCA	15718
+reference_guided_mt_consensus_gap_rescued      ATCCCCTTCCCCATTTGGTCTATTTATCTACCATCCTCCGTGAAACCAACAACCCGCCCA	15719
+                                               ************************ ***********************************
+
+MW209725.1                                     CCAATGCCCCTCTTCTCGCTCCGGGCCCATTAAACTTGGGGGTAGCTAAACTGAAACTTT	15778
+reference_guided_mt_consensus_gap_rescued      CCAATGCCCCTCTTCTCGCTCCGGGCCCATTAAACTTGGGGGTAGCTAAACTGAAACTTT	15779
+                                               ************************************************************
+
+MW209725.1                                     ATCAGACATCTGGTTCTTACTTCAGGGCCATCAAATGCGTTATCGCCCATACGTTCCCCT	15838
+reference_guided_mt_consensus_gap_rescued      ATCAGACATCTGGTTCTTACTTCAGGGCCATCAAATGCGTTATCGCCCATACGTTCCCCT	15839
+                                               ************************************************************
+
+MW209725.1                                     TAAATAAGACATCTCGATGGTAACGGGTCTAATCAGCCCATGACCAACATAACTGTGGTG	15898
+reference_guided_mt_consensus_gap_rescued      TAAATAAGACATCTCGATGGTAACGGGTCTAATCAGCCCATGACCAACATAACTGTGGTG	15899
+                                               ************************************************************
+
+MW209725.1                                     TCATGCATTTGGTATCTTTTATTTTTAGCCTACTTTCATCAACATAGCCGTCAAGGCATG	15958
+reference_guided_mt_consensus_gap_rescued      TCATGCATTTGGTATCTTTTATTTTTAGCCTACTTTCATCAACATAGCCGTCAAGGCATG	15959
+                                               ************************************************************
+
+MW209725.1                                     AAAGGACAGCACATAGTCTAGACGCACCTACGGTGAAGAATCATTAGTCCGCAAGACCCA	16018
+reference_guided_mt_consensus_gap_rescued      AAAGGACAGCACATAGTCTAGACGCACCTACGGTGAAGAATCATTAGTCCGCAAGACCCA	16019
+                                               ************************************************************
+
+MW209725.1                                     ATCACCCAAGGCTAATTATTCATGCTTGTTAGACATAACTTTTTTTTAATACTAGATTTT	16078
+reference_guided_mt_consensus_gap_rescued      ATCACCCAAGGCTAATTATTCATGCTTGTTAGACATAACTTTTTTTTAATACTAGATTTT	16079
+                                               ************************************************************
+
+MW209725.1                                     AACTCTCCAAACCCCCCCAACCCCCACCTCTTAATGCCAAACCCCAAAAACACTAAGAAC	16138
+reference_guided_mt_consensus_gap_rescued      AACTCTCCAAAACCCCCCAACCCCCACCTCTTAATGCCAAACCCCAAAAACACTAAGAAC	16139
+                                               *********** ************************************************
+
+MW209725.1                                     TTGAAAAAAAGACATAAATTATTAACTGCCAAACCCTATGTCCTGATCAATTCTAGTAGT	16198
+reference_guided_mt_consensus_gap_rescued      TTGAAAAAAAGACATAAATTATTAACTGCCAAACCCTATGTCCTGATCAATTCTAGTAGT	16199
+                                               ************************************************************
+
+MW209725.1                                     TCTCAAAATATGACTTATATTTTAGTACTTGTAAAATTTTTACAAAATCATGCCCCGTTA	16258
+reference_guided_mt_consensus_gap_rescued      TCTCAAAATATGACTTATATTTTAGTACTTGTAAAATTTTTACAAAATCATGCCCCGTTA	16259
+                                               ************************************************************
+
+MW209725.1                                     GTCAAAACTCTAAATACATCCTACTACGCAATAAACATAAATGA	16302
+reference_guided_mt_consensus_gap_rescued      GTCAAAACTCTAAATACATCCTACTACGCAATAAACATAAATGA	16303
+                                               ********************************************
